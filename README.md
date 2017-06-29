@@ -4,3 +4,4 @@ https://www.edx.org/course/using-python-research-harvardx-ph526x
 * Case Study 2: Language Processing
 * Case Study 3: Introduction to Classification
 * Case Study 4: Classifying Whiskies 
+* Case Study 5: Bird Migration
