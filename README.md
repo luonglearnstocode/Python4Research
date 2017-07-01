@@ -5,3 +5,4 @@ https://www.edx.org/course/using-python-research-harvardx-ph526x
 * Case Study 3: Introduction to Classification
 * Case Study 4: Classifying Whiskies 
 * Case Study 5: Bird Migration
+* Case Study 6: Social Network Analysis
